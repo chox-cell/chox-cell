@@ -120,7 +120,7 @@ Make it easy for builders to add a risk check before an agent executes.
 Contact
 
 * GitHub: @chox-cell
-* Website: https://ghost-ai.studio
+* Website :  https://chox.ghost-ai.studio/
 
 ⸻
 
